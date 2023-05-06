@@ -30,4 +30,4 @@ while i < cont:
     i +=1
 ```
 
-<br>Itera na pasta com as imagens e faz a leitura dos arquivos<br/>
+<br>Intera na pasta com as imagens e faz a leitura dos arquivos<br/>
